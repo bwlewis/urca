@@ -1,6 +1,11 @@
 # urca
 Pfaff/Stigler Unit Root and Cointegration Analysis R package
 
+I recommend the companion book
+http://www.amazon.com/Analysis-Integrated-Cointegrated-Time-Series/dp/0387759662
+that I know you will enjoy.
+
+
 ## Warning
 
 This is a work in progress...don't install this package (yet)! Use the one from
