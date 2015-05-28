@@ -37,4 +37,5 @@ No code yet! But my notes are online and that was probably the hard part. See:
 * https://github.com/bwlewis/urca/blob/master/notes-2.jpg
 * https://github.com/bwlewis/urca/blob/master/notes-3.jpg
 
-Code will follow soon I hope...
+Code will follow soon I hope... I say that knowing that these changes are
+three years late already!
