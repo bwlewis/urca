@@ -26,4 +26,10 @@ the standard Johansen procedure.
 
 ## Status
 
-No code yet! But my hand-written notes are online. Code will follow...
+No code yet! But my notes are online and that was probably the hard part. See:
+
+* https://github.com/bwlewis/urca/blob/master/notes-1.jpg
+* https://github.com/bwlewis/urca/blob/master/notes-2.jpg
+* https://github.com/bwlewis/urca/blob/master/notes-3.jpg
+
+Code will follow soon I hope...
